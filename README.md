@@ -7,6 +7,8 @@ This app allows you to take [Radio Reference](https://www.radioreference.com/) C
 #### Windows
 Download the precomplie binary and run the EXE file. This will start the GUI.
 
+[Download](https://github.com/jpekala/RadioReferenceParser/raw/master/windows/dsdplus_parser.exe)
+
 #### Linux 
 Clone this repo and run the dsdplus_parser.py file
 
@@ -33,4 +35,4 @@ In progress
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/jpekala/RadioReferenceParser/blob/master/LICENSE)
